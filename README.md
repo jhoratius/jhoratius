@@ -8,15 +8,15 @@
   <img src="https://komarev.com/ghpvc/?username=jhoratius&label=Profile%20views&color=0e75b6&style=flat" alt="jhoratius" />
 </p>
 
-- 🔭 I’m currently working on **Push_swap Project**
+- 🔭 I’m currently working on **Minishell Project**
 
-- 🌱 I’m currently learning **C Language : MinilibX, Linked lists**
+- 🌱 I’m currently learning **C Language : MinilibX, Linked lists, Pipes & Forks**
 
-- 🤝 I’m looking for help with **So_long Project**
+- 🤝 I’m looking for help with **Three.JS Project**
 
 - 📫 How to reach me **julien.horatius@gmail.com**
 
-- ⚡ Fun fact : **Nothing's fun about me**
+- ⚡ Fun fact : **I really am a clown 🤡**
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoratius&show_icons=true&locale=en" alt="jhoratius" />
