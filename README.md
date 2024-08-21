@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Minishell Project**
 
-- 🌱 I’m currently learning **C Language : MinilibX, Linked lists, Pipes & Forks**
+- 🌱 I’m currently learning **C Language : MinilibX, Linked lists, Pipes & Forks, Threads and Mutexes**
 
 - 🤝 I’m looking for help with **Three.JS Project**
 
