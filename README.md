@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=jhoratius&label=Profile%20views&color=0e75b6&style=flat" alt="jhoratius" />
 </p>
 
-- 🔭 I’m currently working on **Minishell Project**
+- 🔭 I’m currently working on **Transcendance Project**
 
-- 🌱 I’m currently learning **C Language : MinilibX, Linked lists, Pipes & Forks, Threads and Mutexes**
+- 🌱 I’m currently learning **Typescript and CSS(Tailwind) : EventListeners, Components, SPA**
 
 - 🤝 I’m looking for help with **Three.JS Project**
 
