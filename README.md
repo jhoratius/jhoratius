@@ -1,4 +1,4 @@
-# Julien Horatius (jhoratius)
+# jhoratius 🦝
 
 Systems, Hardware, and Data Architecture Engineer based in Paris.
 
@@ -36,7 +36,8 @@ I am currently studying at 42 Paris, specializing in Data and Database Architect
   Built a predictive algorithm from the ground up using raw mathematical formulas rather than black-box frameworks. The implementation maps precise curves to predict asset valuation based on cumulative mileage metrics.
 * **Data Analytics Regimen**
   Completed a comprehensive data analysis track manipulating complex dataframes, multi-dimensional arrays, and images using Pandas, Matplotlib, Pyplot, and Seaborn.
-* **Applied AI Hackathons**
+* **AI & Applied Hackathons**
+  * **Epitech Hackathon (ProMotion):** Developed a Next.js web application featuring an integrated chat interface for interacting with autonomous conversational AI agents[cite: 1]. Engineered a backend API route to handle agent logic and streaming states[cite: 1].
   * **Gemini 3 Hackathon:** Built an animal relocation tool utilizing Replit, Gemini 3, Google AI Studio, and Google Antigravity.
   * **WWDC Apple x 42:** Developed a rapid functional prototype using SwiftUI and Xcode during an intensive 3-day sprint.
 
