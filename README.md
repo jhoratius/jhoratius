@@ -1,51 +1,39 @@
 # jhoratius 🦝
 
-Systems, Hardware, and Data Architecture Engineer based in Paris.
+Engineer at 42 Paris. I build systems end to end, from PCB and
+bare-metal firmware up to deployed web apps.
 
-I am currently studying at 42 Paris, specializing in Data and Database Architecture. My work bridges low-level systems engineering and physical hardware with robust, data-driven software architectures—ranging from custom PCB layout and bare-metal firmware to building machine learning algorithms from first principles.
+[Portfolio](https://jhoratius.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/julien-horatius)
 
-[Portfolio](https://jhoratius.github.io/portfolio/) | [LinkedIn](https://linkedin.com/in/julien-horatius)
-
----
-
-## Technical Expertise
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Programming** | C, C++ (OOP/Templates), Python, Go, TypeScript, SwiftUI |
-| **Hardware & EDA** | KiCad (Schematic & PCB Layout), Fusion 360 CAD, Wire Harnessing |
-| **Embedded Protocols** | I2C, SPI, Bare-metal Firmware (AVR/ARM), Sensor Interfacing |
-| **Data & Infrastructure** | Pandas, Matplotlib, Seaborn, Docker, Docker Compose, MySQL, Unix |
+**C · C++ · Python · TypeScript** with KiCad, AVR/ARM, I2C/SPI,
+Docker, React/Next.js
 
 ---
 
-## Projects
+## Embedded & Hardware
 
-### Embedded Systems & Hardware Engineering
+- **[Electrosluch](#)** : portable electromagnetic sensor, designed and
+  manufactured end to end. Schematics tuned for signal integrity,
+  noise-resilient PCB routing in KiCad, parametric enclosure in Fusion 360.
+- **[Bare-metal firmware](https://github.com/jhoratius/bootcamp-elec)** :
+  low-level C/C++ on AVR and ARM microcontrollers. Raw I2C drivers written
+  from the datasheet to interface with AHT20 sensor modules. No HAL, no
+  framework.
 
-* **Electrosluch (Portable Electromagnetic Sensor)**
-  Designed and manufactured a portable electromagnetic sensor device. Engineered the electronic schematics for signal integrity, routed a noise-resilient PCB in KiCad, and modeled a tight parametric enclosure in Fusion 360.
-* **Bare-Metal Embedded Infrastructure**
-  Developed low-level C/C++ firmware directly on AVR and ARM microcontrollers. Implemented real-time sensor communication protocols, writing raw I2C drivers to interface with AHT20 environment modules.
-* **Custom Electronics Prototyping**
-  Built factory-ready PCB layouts from self-built, standardized KiCad footprint libraries. Experienced with precision hands-on soldering across both Through-Hole (THT) and Surface-Mount (SMD) components.
+## Machine Learning & Data
 
-### Machine Learning & Data Science
+- **[Linear regression from scratch](https://github.com/jhoratius/42-ft-linear-regression)** :
+  gradient descent implemented from the math, no ML libraries. Predicts
+  asset valuation from mileage data.
+- **[Epitech Hackathon (ProMotion)](https://github.com/jhoratius/hackathon-epitech)** :
+  Next.js app with a chat interface for autonomous conversational agents.
+  Built the backend API route handling agent logic and streaming state.
 
-* **Linear Regression From Scratch**
-  Built a predictive algorithm from the ground up using raw mathematical formulas rather than black-box frameworks. The implementation maps precise curves to predict asset valuation based on cumulative mileage metrics.
-* **Data Analytics Regimen**
-  Completed a comprehensive data analysis track manipulating complex dataframes, multi-dimensional arrays, and images using Pandas, Matplotlib, Pyplot, and Seaborn.
-* **AI & Applied Hackathons**
-  * **Epitech Hackathon (ProMotion):** Developed a Next.js web application featuring an integrated chat interface for interacting with autonomous conversational AI agents[cite: 1]. Engineered a backend API route to handle agent logic and streaming states[cite: 1].
-  * **Gemini 3 Hackathon:** Built an animal relocation tool utilizing Replit, Gemini 3, Google AI Studio, and Google Antigravity.
-  * **WWDC Apple x 42:** Developed a rapid functional prototype using SwiftUI and Xcode during an intensive 3-day sprint.
+## Software & Infrastructure
 
-### Systems & Core Software Engineering
-
-* **Inception (DevOps & Security)**
-  Architected an isolated, multi-container virtualization layer via Docker Compose separating Nginx, WordPress, and MariaDB. Enforced strict network isolation, ensuring all external traffic routes exclusively through an encrypted Nginx TLS connection.
-* **Push Swap (Algorithmic Efficiency)**
-  Engineered a highly optimized sorting algorithm pipeline in C. Focused on minimizing stack-based instructions while enforcing strict heap memory tracking and zero leak limits.
-* **ft_transcendence (Full-Stack SPA)**
-  Co-developed a full-stack single-page web application featuring a real-time multiplayer game engine, live chat channels, and an active security firewall. Handled front-end orchestration, state management, and single-page routing using TypeScript and Tailwind CSS.
+- **[ft_transcendence](#)** : full-stack SPA with a real-time multiplayer
+  game engine and live chat. Owned front-end orchestration, state management
+  and SPA routing in TypeScript and Tailwind. Team of five.
+- **[Inception](#)** : multi-container infrastructure via Docker Compose
+  (Nginx, WordPress, MariaDB). Strict network isolation, all external
+  traffic through Nginx TLS.
