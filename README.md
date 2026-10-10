@@ -1,4 +1,4 @@
-# jhoratius 🦝
+# jhoratius 🖳
 
 Engineer at 42 Paris. I build systems end to end, from PCB and
 bare-metal firmware up to deployed web apps.
